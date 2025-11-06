@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
 <h3 align="center">IT student specializing in Backend Development and DevOps</h3>
 
